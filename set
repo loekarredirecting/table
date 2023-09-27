@@ -1,0 +1,44 @@
+ [
+{
+"image": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
+"title": "Premier League(England)",
+"subtitle": "Burmese TV Pro",
+"link": "https://www.fotmob.com/leagues/47/overview/premier-league"
+},
+{
+"image": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+"title": "Champions League(International)",
+"subtitle": "1.0.7",
+"link": "https://www.fotmob.com/leagues/42/overview/champions-league"
+},
+{
+"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/messenger.png",
+"title": "မက်ဆေ့",
+"subtitle": "မက်ဆေ့ဂျာ",
+"link": "https://m.me/109810678671415"
+},
+{
+"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/facebook.jpg",
+"title": "ဖေ့ဘုတ်",
+"subtitle": "ဖေ့စ်ဘုတ် ပေ့",
+"link": "https://www.facebook.com/profile.php?id=100089461360942"
+},
+{
+"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/facebook.jpg",
+"title": "ဖေ့ဘုတ်",
+"subtitle": "ဖေ့စ်ဘုတ် ဂရု",
+"link": "https://www.facebook.com/groups/518909963447753/"
+},
+{
+"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/playstore.jpg",
+"title": "ပလေးစတိုး",
+"subtitle": "ပလေးစတိုးမှာ ကြယ်ပေးမယ်",
+"link": "https://play.google.com/store/apps/details?id=com.pro.burmese_tv"
+},
+{
+"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/movies.jpg",
+"title": "စာတန်းထိုး ရုပ်ရှင်များ",
+"subtitle": "Movies",
+"link": "movies"
+}
+]
