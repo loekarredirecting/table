@@ -44,25 +44,25 @@
 {
 "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
 "title": "Europa League (International)",
-"subtitle": "Movies",
+"subtitle": "",
 "link": "https://www.fotmob.com/leagues/73/table/europa-league"
 },
 {
 "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
 "title": "Ligue 1 (France)",
-"subtitle": "Movies",
+"subtitle": "",
 "link": "https://www.fotmob.com/leagues/53/table/ligue-1"
 },
 {
 "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/132.png",
 "title": "FA Cup (England)",
-"subtitle": "Movies",
+"subtitle": "",
 "link": "https://www.fotmob.com/leagues/132/overview/fa-cup"
 },
 {
 "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
 "title": "EURO (International)",
-"subtitle": "Movies",
+"subtitle": "",
 "link": "https://www.fotmob.com/leagues/50/table/euro"
 }
 ]
