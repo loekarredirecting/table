@@ -1,44 +1,68 @@
  [
 {
-"image": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-"title": "Premier League(England)",
+"image": "https://w1.pngwing.com/pngs/675/643/png-transparent-question-mark-person-man-symbol-joint.png",
+"title": "Today Result",
 "subtitle": "Burmese TV Pro",
-"link": "https://www.fotmob.com/leagues/47/overview/premier-league"
+"link": "https://www.fotmob.com/"
+},
+{
+"image": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
+"title": "Premier League  (England)",
+"subtitle": "Burmese TV Pro",
+"link": "https://www.fotmob.com/leagues/47/table/premier-league"
 },
 {
 "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
-"title": "Champions League(International)",
+"title": "Champions League  (International)",
 "subtitle": "1.0.7",
-"link": "https://www.fotmob.com/leagues/42/overview/champions-league"
+"link": "https://www.fotmob.com/leagues/42/table/champions-league"
 },
 {
-"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/messenger.png",
-"title": "မက်ဆေ့",
+"image": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+"title": "LaLiga (Spain)",
 "subtitle": "မက်ဆေ့ဂျာ",
-"link": "https://m.me/109810678671415"
+"link": "https://www.fotmob.com/leagues/87/table/laliga"
 },
 {
-"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/facebook.jpg",
-"title": "ဖေ့ဘုတ်",
+"image": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
+"title": "Bundesliga (Germany)",
 "subtitle": "ဖေ့စ်ဘုတ် ပေ့",
-"link": "https://www.facebook.com/profile.php?id=100089461360942"
+"link": "https://www.fotmob.com/leagues/54/table/bundesliga"
 },
 {
-"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/facebook.jpg",
-"title": "ဖေ့ဘုတ်",
+"image": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+"title": "Serie A (Italy)",
 "subtitle": "ဖေ့စ်ဘုတ် ဂရု",
-"link": "https://www.facebook.com/groups/518909963447753/"
+"link": "https://www.fotmob.com/leagues/55/table/serie"
 },
 {
-"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/playstore.jpg",
-"title": "ပလေးစတိုး",
+"image": "https://images.fotmob.com/image_resources/logo/leaguelogo/77.png",
+"title": "FIFA World Cup (International)",
 "subtitle": "ပလေးစတိုးမှာ ကြယ်ပေးမယ်",
-"link": "https://play.google.com/store/apps/details?id=com.pro.burmese_tv"
+"link": "https://www.fotmob.com/leagues/77/table/world-cup"
 },
 {
-"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/movies.jpg",
-"title": "စာတန်းထိုး ရုပ်ရှင်များ",
+"image": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
+"title": "Europa League (International)",
 "subtitle": "Movies",
-"link": "movies"
+"link": "https://www.fotmob.com/leagues/73/table/europa-league"
+},
+{
+"image": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
+"title": "Ligue 1 (France)",
+"subtitle": "Movies",
+"link": "https://www.fotmob.com/leagues/53/table/ligue-1"
+},
+{
+"image": "https://images.fotmob.com/image_resources/logo/leaguelogo/132.png",
+"title": "FA Cup (England)",
+"subtitle": "Movies",
+"link": "https://www.fotmob.com/leagues/132/overview/fa-cup"
+},
+{
+"image": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
+"title": "EURO (International)",
+"subtitle": "Movies",
+"link": "https://www.fotmob.com/leagues/50/table/euro"
 }
 ]
